@@ -1,4 +1,4 @@
-Llama-2 QA System Documentation
+<div align=”center”>Llama-2 QA System Documentation</div>
 Overview
 This document provides a concise guide for the Llama-2 Question-Answering (QA) System, developed to facilitate team knowledge building through scientific publications. The system uses Meta's Llama-2 technology and is designed to answer questions based on relevant research papers.
 
